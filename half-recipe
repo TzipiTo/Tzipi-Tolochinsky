@@ -1,0 +1,29 @@
+
+public class half {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	String Milk = "glass of milk";
+	String Egg = "eggs";
+	String Salt = "teaspoon salt";
+
+	double milk = 0.5;
+	int egg = 4;	
+	double salt = 1.0;
+	
+	boolean half = false;
+	
+	if (half) {
+	milk = milk/2; egg = egg/2; salt = salt/2;
+	}
+		
+	
+	System.out.println(milk+ " " +Milk);
+	System.out.println(egg+ " " +Egg);
+	System.out.println(salt+ " " +Salt);
+	
+	
+	
+	}
+}
